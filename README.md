@@ -15,17 +15,11 @@ Aplikacion web për bibliotekë me module user dhe admin, leximi dhe shkarkimi i
 ---
 
 ## 🛠 Teknologjitë e përdorura
-- **Frontend**: HTML, CSS, Bootstrap  
+- **Frontend**: HTML, CSS, Bootstrap,JavaScript 
 - **Backend**: PHP  
 - **Database**: MySQL  
 - **Dizajn**: Animacione CSS për UI moderne  
 
 ---
 
-## 📸 Screenshots
 
-> Shto këtu pamjet kryesore të aplikacionit  
-```markdo
-![Faqja kryesore](screenshots/homepage.png)
-![Dritarja e leximit](screenshots/reading_window.png)
-![Faqja e Administratorit](screenshots/Admin_window.png)
